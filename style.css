@@ -1,0 +1,50 @@
+body
+{
+    background-size: cover;
+    
+}
+h1
+{
+ color: brown;
+ background-color: gold;
+ border-width: 5px;
+ border-radius: 7px;
+ border-color:aqua ;
+ margin-top: 0;
+ font-family: cursive;
+}
+h3
+{
+  margin-top: 0;
+  color: rgb(230, 0, 142);
+  background-color: lightsalmon;
+  border-width: 5px;
+  border-radius: 7px;
+  border-color: aqua;
+  font-family: monospace;
+}
+span
+{
+    margin-top: 0;
+    font-size: 25px;
+    font-family:comforta;
+    color: crimson;
+    background-color: khaki;
+    border-width: 5px;
+    border-radius: 7px;
+    border-color: aqua;
+}
+footer
+{
+    color: crimson;
+    background-color: chartreuse;
+    font-family: cursive;
+    border-width: 5px;
+    border-radius: 7px;
+    border-color: aqua;
+    font-size: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+}
